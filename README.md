@@ -32,5 +32,5 @@ I like writing, sharing my knowledge with other engineers.
 <a href="https://medium.com/@prestonrodrigues97">
   <img align="left" alt="Vedant Jajoo Medium" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/medium.svg" />
 </a>
-<br/>
+<br/><br/>
 <img src="https://visitor-badge.glitch.me/badge?page_id=prestonrodrixx.prestonrodrixx" alt="Visitors Counter">
