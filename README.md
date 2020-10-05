@@ -18,7 +18,6 @@ I like writing, sharing my knowledge with other engineers.
 <br/>
 <img alt="spotify" width="235px" src="https://spotify-github-profile.vercel.app/api/view?uid=315az42hka7jwtwpck3polrmtvwa&cover_image=false" />
 <br/>
-
 ### Connect with me :smiley:
 <a href="https://twitter.com/prestuuu">
   <img align="left" alt="Vedant Jajoo Twitter" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/twitter.svg" />
