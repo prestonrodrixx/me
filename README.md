@@ -1,8 +1,7 @@
+<a href="https://twitter.com/prestuuu" target="_blank" rel="nofollow"><img align="right" alt="Pratik's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a><a href="https://www.linkedin.com/in/prestonrodz" target="_blank" rel="nofollow"><img align="right" alt="Pratik's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a><a href="https://www.instagram.com/preston.rodrix/" target="_blank" rel="nofollow"><img align="right" alt="Pratik's Insta" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
 
-### Hi there 👋
-<p align="center">
-<img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.gif" width=100>
-</p>
+## Hi 👋 I am Preston! 
+
 I am a Software Engineer with experience in building intelligent & scalable applications using MEAN / MERN stack.
 I love Web Applications, Computer Networks, Open Source Projects and the challenges associated with them.
 I like writing, sharing my knowledge with other engineers.
@@ -22,18 +21,5 @@ I like writing, sharing my knowledge with other engineers.
 <br/>
 <img alt="spotify" width="235px" src="https://spotify-github-profile.vercel.app/api/view?uid=22q64qwebsonz3rkguc5a2sza&cover_image=false" />
 
-### Connect with me :smiley:
-<a href="https://twitter.com/prestuuu">
-  <img align="left" alt="Vedant Jajoo Twitter" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/twitter.svg" />
-</a>
-<a href="https://dev.to/prestonrodrixx">
-  <img align="left" alt="Vedant Jajoo DEV" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/dev_to.svg" />
-</a>
-<a href="https://www.linkedin.com/in/prestonrodz/">
-  <img align="left" alt="Vedant Jajoo Linkdin" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/linkedin.svg" />
-</a>
-<a href="https://medium.com/@prestonrodrigues97">
-  <img align="left" alt="Vedant Jajoo Medium" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/medium.svg" />
-</a>
 <br/><br/>
 <img src="https://visitor-badge.glitch.me/badge?page_id=prestonrodrixx.prestonrodrixx" alt="Visitors Counter">
