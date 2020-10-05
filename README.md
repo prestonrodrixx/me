@@ -13,9 +13,11 @@ I like writing, sharing my knowledge with other engineers.
 - 💬 Ask me about Node.js | Express | Angular | React.js and MongoDB.
 - 📫 How to reach me: [Github](https://github.com/prestonrodrixx), [Blog](), [Twitter](), [Linkedin]()
 
-<img src="https://github-readme-stats.vercel.app/api?username=prestonrodrixx&show_icons=true&title_color=fff&icon_color=ffffff&text_color=9f9f9f&bg_color=151515&include_all_commits=false&count_private=true&hide=issues" alt="pprestonrodrixx" />
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=prestonrodrixx&show_icons=true&theme=tokyonight&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=prestonrodrixx&hide=css,java,html&theme=tokyonight">
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prestonrodrixx&layout=compact&theme=dark&show_all_langs=true" alt="prestonrodrixx" />
 <br/>
 <img alt="spotify" width="235px" src="https://spotify-github-profile.vercel.app/api/view?uid=22q64qwebsonz3rkguc5a2sza&cover_image=false" />
 
