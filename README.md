@@ -1,6 +1,8 @@
 
 ### Hi there 👋
-
+<p align="center">
+<img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.gif" width=100>
+</p>
 I am a Software Engineer with experience in building intelligent & scalable applications using MEAN / MERN stack.
 I love Web Applications, Computer Networks, Open Source Projects and the challenges associated with them.
 I like writing, sharing my knowledge with other engineers.
