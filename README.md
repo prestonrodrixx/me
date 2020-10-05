@@ -17,7 +17,8 @@ I like writing, sharing my knowledge with other engineers.
   <img src = "https://github-readme-stats.vercel.app/api?username=prestonrodrixx&show_icons=true&theme=tokyonight&line_height=27">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=prestonrodrixx&hide=css,java,html&theme=tokyonight">
 
-<br/><br/>
+<br/>
+
 <img alt="spotify" width="235px" src="https://spotify-github-profile.vercel.app/api/view?uid=22q64qwebsonz3rkguc5a2sza&cover_image=false" />
 <br/><br/>
 <img src="https://visitor-badge.glitch.me/badge?page_id=prestonrodrixx.prestonrodrixx" alt="Visitors Counter">
