@@ -15,7 +15,7 @@ I like writing, sharing my knowledge with other engineers.
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prestonrodrixx&layout=compact&theme=dark&show_all_langs=true" alt="prestonrodrixx" />
 <br/>
-<img alt="spotify" width="235px" src="https://spotify-recently-played-readme.vercel.app/api?user=22q64qwebsonz3rkguc5a2sza" />
+<img alt="spotify" width="235px" src="https://spotify-github-profile.vercel.app/api/view?uid=22q64qwebsonz3rkguc5a2sza&cover_image=false" />
 
 ### Connect with me :smiley:
 <a href="https://twitter.com/prestuuu">
