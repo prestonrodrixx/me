@@ -10,7 +10,6 @@ I like writing, sharing my knowledge with other engineers.
 - 🌱 I’m currently learning Deno.js
 - 👯 I’m looking to collaborate on open source Node projects 
 - 💬 Ask me about Node.js | Express | Angular | React.js and MongoDB.
-- 📫 How to reach me: [Github](https://github.com/prestonrodrixx), [Blog](), [Twitter](), [Linkedin]()
 
 
 <p align = "center">
