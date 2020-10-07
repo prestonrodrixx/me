@@ -7,7 +7,6 @@ I love Web Applications, Computer Networks, Open Source Projects and the challen
 I like writing, sharing my knowledge with other engineers.
 
 - 🔭 I’m currently working on Node.js, Express, Angular/React.js & MongoDB. (MEAN / MERN Stack)
-- 🌱 I’m currently learning Deno.js
 - 👯 I’m looking to collaborate on open source Node projects 
 - 💬 Ask me about Node.js | Express | Angular | React.js and MongoDB.
 
