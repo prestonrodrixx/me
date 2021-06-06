@@ -8,4 +8,3 @@ I like writing, sharing my knowledge with other engineers.
 
 - 🔭 I’m currently working on Node.js, Express, Angular/React.js & MongoDB. (MEAN / MERN Stack)
 - 👯 I’m looking to collaborate on open source projects.
-- 💬 Ask me about Node.js | Express | Angular | React.js | MongoDB
