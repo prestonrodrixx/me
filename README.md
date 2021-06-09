@@ -2,9 +2,9 @@
 
 ## Hi 👋 I am Preston! 
 
-I am a Full Stack Developer with experience in building intelligent & scalable applications using MERN / MEAN stack.
+I am currently professionalizing in Full Stack Development by building intelligent & scalable applications using MERN / MEAN stack.
 I love Web Applications, Computer Networks, Open Source Projects and the challenges associated with them.
-I like writing code and sharing my knowledge with other engineers.
+I live my life by learning, writing code and sharing my knowledge with other engineers. 
 
 - 🔭 I’m currently working on Node.js, Express, React/Angular & MongoDB. (MERN / MEAN Stack)
-- 👯 I’m looking to collaborate on open source projects.
+- 👯 I’m open to collaborate on open source projects.
